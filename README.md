@@ -52,7 +52,7 @@
 >개발 기간: 2023.03.23 ~ 2023.04.11
 >  
 >기술 스택:  
->Java 8 / JSP / AJAX / canvas / Socket / MySQL /Jsoup
+>Java 8 / JSP / AJAX / canvas / Socket / MySQL /Jsoup /
 >chart.js / BootStrap / Fontawesome / Summernote 
 >  
 >[프로젝트 상세 설명](https://github.com/amares9100/PJT3/blob/master/README.md) 참고
