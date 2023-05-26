@@ -59,4 +59,14 @@
 
 ---
 
+### 3. [MES](https://github.com/amares9100/MES)
+>MES(제조 실행 시스템) (팀 프로젝트)</br>
+>개발 기간: 2023.04.25 ~ 2023.05.25
+>  
+>기술 스택:  
+>Java 8 / JS / Axios / canvas / Socket / MySQL / React / Spring / 
+>chart.js / mui / 
+>  
+>[프로젝트 상세 설명](https://github.com/amares9100/MES/blob/main/README.md) 참고
+
 </br>
